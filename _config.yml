@@ -6,3 +6,4 @@ description: Write an awesome description for your new site here.
 # Build settings
 markdown: kramdown
 theme: govuk-jekyll-theme
+remote_theme: frankieroberto/govuk-jekyll-theme
