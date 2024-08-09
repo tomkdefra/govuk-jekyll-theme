@@ -1,12 +1,10 @@
 ---
 title: "Building Reproducible Analytical Pipelines"
 permalink: /learning-and-development/pathways/reproducible-analytical-pipelines/
-sidebar:
-  nav: "reproducible-analytical-pipelines"
 ---
 
 
-# Introduction {.unnumbered}
+# Introduction
 
 *This is the 2023 edition of the course. If you're looking for the 2022 edition,
 you can click [here](https://b-rodrigues.github.io/rap4mads/)*
